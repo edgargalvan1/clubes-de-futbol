@@ -1,0 +1,34 @@
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\bin\Debug\TT.exe
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\bin\Debug\TT.pdb
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.csprojAssemblyReference.cache
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.Form1.resources
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.Form2.resources
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.Properties.Resources.resources
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.UserControl1.resources
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.UserControl2.resources
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.csproj.GenerateResource.cache
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.exe
+C:\Users\Andrés F. Diaz\source\repos\TT\TT\obj\Debug\TT.pdb
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\bin\Debug\TT.exe.config
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\bin\Debug\TT.exe
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\bin\Debug\TT.pdb
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.csprojAssemblyReference.cache
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.Form1.resources
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.Form2.resources
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.Properties.Resources.resources
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.UserControl1.resources
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.csproj.GenerateResource.cache
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.exe
+C:\Users\luz26\OneDrive\Escritorio\PROGRAMAS\TT\TT\obj\Debug\TT.pdb
+C:\Users\Acer\Downloads\trabajoprogpp\TT\bin\Debug\TT.exe.config
+C:\Users\Acer\Downloads\trabajoprogpp\TT\bin\Debug\TT.exe
+C:\Users\Acer\Downloads\trabajoprogpp\TT\bin\Debug\TT.pdb
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.Form1.resources
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.Form2.resources
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.Properties.Resources.resources
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.UserControl1.resources
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.exe
+C:\Users\Acer\Downloads\trabajoprogpp\TT\obj\Debug\TT.pdb

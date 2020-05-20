@@ -1,0 +1,6 @@
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\trabajoprogampp\obj\Release\TT.Form1.resources
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\trabajoprogampp\obj\Release\TT.Form2.resources
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\trabajoprogampp\obj\Release\TT.Properties.Resources.resources
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\trabajoprogampp\obj\Release\TT.UserControl1.resources
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\trabajoprogampp\obj\Release\trabajopogrampp.csproj.GenerateResource.cache
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\trabajoprogampp\obj\Release\trabajopogrampp.csproj.CoreCompileInputs.cache

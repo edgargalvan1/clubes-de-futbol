@@ -1,0 +1,32 @@
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.dll
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.pdb
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.uc_grafica.resources
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.dll
+C:\Users\Acer\Desktop\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.pdb
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.uc_grafica.resources
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.GenerateResource.cache
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.dll
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.pdb
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.dll
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.pdb
+C:\Users\Kandriws\Desktop\trabajoprog\trabajoprog\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csprojAssemblyReference.cache
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.dll
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.pdb
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csprojAssemblyReference.cache
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.uc_grafica.resources
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.GenerateResource.cache
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.dll
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.pdb
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.dll
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\bin\Debug\dllgraficador.pdb
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.uc_grafica.resources
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.dll
+C:\Users\Acer\Desktop\trabajoprogpp\dllgraficador\obj\Debug\dllgraficador.pdb

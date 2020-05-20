@@ -1,0 +1,111 @@
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe.config
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\bin\Debug\TT.pdb
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\bin\Debug\dllgraficador.dll
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\bin\Debug\dllgraficador.pdb
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csprojAssemblyReference.cache
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form1.resources
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form2.resources
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Properties.Resources.resources
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\TT.UserControl1.resources
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.GenerateResource.cache
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.CopyComplete
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\TT.exe
+C:\Users\Nicolas Martinez\Downloads\trabajoprogpp\trabajoprogampp\obj\Debug\TT.pdb
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe.config
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.pdb
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\dllgraficador.dll
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\dllgraficador.pdb
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form1.resources
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form2.resources
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Properties.Resources.resources
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.UserControl1.resources
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.CopyComplete
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.exe
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.pdb
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.frances.resources
+C:\Users\Acer\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.Ingles.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe.config
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.pdb
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\dllgraficador.dll
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\dllgraficador.pdb
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csprojAssemblyReference.cache
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form1.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form2.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Properties.Resources.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.UserControl1.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.GenerateResource.cache
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.CopyComplete
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.exe
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.pdb
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\en-US\TT.resources.dll
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.Res.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.Res.en-US.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\en-US\TT.resources.dll
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\fr-FR\TT.resources.dll
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.Res.fr-FR.resources
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\fr-FR\TT.resources.dll
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe.manifest
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\bin\Debug\TT.application
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.exe.manifest
+C:\Users\Kandriws\Desktop\trabajoprogpp\trabajoprogampp\obj\Debug\TT.application
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe.config
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe.manifest
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\TT.application
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\TT.exe
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\TT.pdb
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\en-US\TT.resources.dll
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\bin\Debug\dllgraficador.pdb
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csprojAssemblyReference.cache
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form1.resources
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Form2.resources
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.Properties.Resources.resources
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.Res.resources
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.UserControl1.resources
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.Res.en-US.resources
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.GenerateResource.cache
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\en-US\TT.resources.dll
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.exe.manifest
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.application
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\trabajopogrampp.csproj.CopyComplete
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.exe
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.pdb
+C:\Users\luz26\OneDrive\Documentos\TT_Finalizado\trabajoprogpp\trabajoprogampp\obj\Debug\TT.lang.Res.cn-CN.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\TT.exe.config
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\TT.exe.manifest
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\TT.application
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\TT.exe
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\TT.pdb
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\fr-FR\TT.resources.dll
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\en-US\TT.resources.dll
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\bin\Debug\dllgraficador.pdb
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\trabajopogrampp.csprojAssemblyReference.cache
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.Form1.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.Form2.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.Properties.Resources.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.lang.Res.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.UserControl1.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.lang.Res.fr-FR.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.lang.Res.en-US.resources
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\trabajopogrampp.csproj.GenerateResource.cache
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\trabajopogrampp.csproj.CoreCompileInputs.cache
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\fr-FR\TT.resources.dll
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\en-US\TT.resources.dll
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.exe.manifest
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.application
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\trabajopogrampp.csproj.CopyComplete
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.exe
+C:\Users\yerson\Music\TT_Finalizado\TT_Finalizado\TT__\TT\obj\Debug\TT.pdb
